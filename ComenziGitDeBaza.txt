@@ -1,3 +1,19 @@
 Comenzi de baza:
-1. 
-2.
+1.git init
+2.git add
+3.git commit -m
+4.git push
+5.git pull
+6.git fetch
+7.git status
+8.git branch
+9.git checkout
+10.git merge
+11.git branch"____"
+12.git branch -d
+13.git log
+14.git show
+15.git reset
+
+
+
