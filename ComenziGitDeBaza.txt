@@ -19,3 +19,7 @@ Comenzi de baza:
 18.git branch -a - lista tuturor branch-urilor (inclusiv cele remote)
 19.git diff - view merge conflicts
 20.git config --global user.name "Sam Smith" - configurarea globala a datelor de autorizare
+21.git reset --hard <commit> - полное возращение проекта к определённому комиту
+22.git push -f - Force Push - делается push без merge (Ваши файлы главные)
+23.git mergetool - делается merge в среде VIMM
+24.git commit --amend -m <commit_comment> - изменение коментария последнего коммита
