@@ -1,19 +1,21 @@
 Comenzi de baza:
-1.git init
-2.git add
-3.git commit -m
-4.git push
-5.git pull
+1.git init - initializeaza
+2.git add - adauga
+3.git commit -m - commit cu mesaj
+4.git push - push pe remote
+5.git pull - fetch and merge
 6.git fetch
 7.git status
-8.git branch
-9.git checkout
+8.git branch - lista de branch
+9.git checkout <branch> - schimba branch-ul
 10.git merge
 11.git branch"____"
 12.git branch -d
 13.git log
 14.git show
 15.git reset
-
-
-
+16.git checkout -b - creaza un branch nou si se face activ
+17.git remote add origin <server> - add remote
+18.git branch -a - lista tuturor branch-urilor (inclusiv cele remote)
+19.git diff - view merge conflicts
+20.git config --global user.name "Sam Smith" - configurarea globala a datelor de autorizare
