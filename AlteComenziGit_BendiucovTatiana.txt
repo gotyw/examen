@@ -1,0 +1,2 @@
+git rm
+git update-index --no-asume-unchanged <file>
